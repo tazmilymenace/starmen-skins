@@ -100,12 +100,12 @@
 	--category-header-bg-color: #000000;
 	--category-header-post-count-color: #f8f800;
 
-	--forum-expand-arrow-hue-shift: 0deg;
-	--category-expand-arrow-hue-shift: 0deg;
+	--forum-expand-arrow-hue-shift: 111.5deg;
+	--category-expand-arrow-hue-shift: 111.5deg;
 	table, thead, tr, th, td { border: 1px solid #409088; }
-	--fan-forum-icons-hue-shift: 0deg;
-	--general-forum-icons-hue-shift: 0deg;
-	--starmen-forum-icons-hue-shift: 0deg;
+	--fan-forum-icons-hue-shift: 26.53deg;
+	--general-forum-icons-hue-shift: 26.53deg;
+	--starmen-forum-icons-hue-shift: 26.53deg;
 	
 	/* ---------- Topic listing ------------ */
 	--unread-topic-color: #92ed99;
